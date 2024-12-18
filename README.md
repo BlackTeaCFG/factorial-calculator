@@ -13,7 +13,7 @@ Factorial Calculator Module — это простая и эффективная 
 Клонируйте репозиторий и импортируйте модуль в ваш проект:
 
 ```bash
-git clone https://github.com/username/factorial-calculator.git
+git clone https://github.com/blackteacfg/factorial-calculator.git
 cd factorial-calculator
 ```
 
